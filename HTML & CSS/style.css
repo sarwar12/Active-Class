@@ -1,0 +1,49 @@
+/*Header section Start*/
+.heads{
+	margin: 20px0 0 0;
+	background: Teal;
+	padding: 20px 0;
+}
+.heads h1{
+	text-align: center;
+	color: orange;
+	font-size: 35px;
+	text-transform: capitalize;
+}
+.heads marquee{
+	text-transform: capitalize;
+	color: #fff;
+}
+.nav{}
+.nav ul {
+	list-style: none;
+	text-align: center;
+	margin: 15px 0 0 0;
+}
+.nav ul li {
+	display: inline-block;
+}
+.nav ul li a {
+	text-decoration: none;
+	color: black;
+	background: #c3c1c1;
+	padding: 5px 10px;
+}
+/*
+.nav ul li a:link{
+	color: green;
+}
+.nav ul li a:visited{
+	color: red;
+}
+.nav ul li a:active{
+	color: brown;
+}
+*/
+.nav ul li a:hover{
+	color: blue;
+}
+.nav ul li a.active{
+	background: green;
+}
+/*Header section Stop*/
